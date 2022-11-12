@@ -1,0 +1,15 @@
+Contractors: 
+Contractors Dataset comes from the State of Washington Labor and Industries Department. 
+This is a set of public licenses for plumbers, contractors, electricians, and other licensed professions. 
+Notable data in this file is addresses, names, and the dates of certification. 
+
+Data Link: https://data.wa.gov/Labor/L-I-Contractor-License-Data-General/m8qx-ubtq/data\
+Data Description: https://data.wa.gov/Labor/L-I-Contractor-License-Data-General/m8qx-ubtq
+
+Fire Department 911 Calls:
+The City of Seattle Fire Department provides data on each dispatch made for a 911 call. 
+This data represents Fire Department responses to 911 calls. 
+Notable data in this file is addresses, response types, incident numbers related to public documents, and datetimes. 
+
+Data Link: https://data.seattle.gov/Public-Safety/Seattle-Real-Time-Fire-911-Calls/kzjm-xkqj/data
+Data Description: https://data.seattle.gov/Public-Safety/Seattle-Real-Time-Fire-911-Calls/kzjm-xkqj/
