@@ -13,3 +13,8 @@ Notable data in this file is addresses, response types, incident numbers related
 
 Data Link: https://data.seattle.gov/Public-Safety/Seattle-Real-Time-Fire-911-Calls/kzjm-xkqj/data
 Data Description: https://data.seattle.gov/Public-Safety/Seattle-Real-Time-Fire-911-Calls/kzjm-xkqj/
+
+Voter Registration Data:
+The State of Washington provides data on who has registered to vote and if they did submit a ballot. 
+The Data Link is a link to the form to request access to the data, if approved, Washington State will email the dataset to the requester. 
+Data Link: https://www.sos.wa.gov/elections/vrdb/extract-requests.aspx
